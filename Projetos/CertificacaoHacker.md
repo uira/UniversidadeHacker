@@ -1,6 +1,6 @@
 # Metodologia de Certificação
 
-De acordo com o protocolo [Xemelê 1.0](xemele-1.0.rfc.md), serão feitas as relações equivalentes, utilizando como base referencial o [Sistema Brasileiro de Educação](http://educacao.gov.br). A proposta é apresentar todos os instrumentos necessários para conseguir as certificações formalmente, que seja aceita e validada pelo Ministério da Educação, de forma a garantir um aval Nacional e Internacional, dentro do sistema vigente.
+De acordo com o protocolo [Xemelê 1.0](Xemele/xemele-1.0.rfc.md), serão feitas as relações equivalentes, utilizando como base referencial o [Sistema Brasileiro de Educação](http://educacao.gov.br). A proposta é apresentar todos os instrumentos necessários para conseguir as certificações formalmente, que seja aceita e validada pelo Ministério da Educação, de forma a garantir um aval Nacional e Internacional, dentro do sistema vigente.
 
 ## Estrutura Básica de Formação Superior
 - <x> Graduação <em> Cultura Digital </x>
