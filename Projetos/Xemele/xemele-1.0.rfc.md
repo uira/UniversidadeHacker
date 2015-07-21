@@ -17,7 +17,7 @@ Metadata Ecosystem, therefore exetensible, it introduces the Xemelê
 Language Exchanging Protocol, as a really new IO concept, that
 introduces a social, contextual and emergent engine of data
 processing, whats enable the options to elegible our own set or
-collection of algorithmns. 
+collection of algorithmns, to determine the IO priority.
 
 If the Internet are Facebook, the XEMELÊ PROTOCOL will be the Graph API,
 with their full metadata EcoSystem (the open and the closed side), and the
