@@ -24,6 +24,7 @@ with their full metadata EcoSystem (the open and the closed side), and the
 Deliverable Algorithm is now an IO concept, that use a
 self-made-set-of-algorithms, to priorize the exchanging data priority betwen
 the apps and systens you running, with all of your devices, ubiquily.
+
 --
 
 # RFC: Protocolo Xemelê
